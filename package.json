@@ -1,0 +1,22 @@
+{
+  "name": "my-first-npm-library",
+  "version": "1.0.0",
+  "description": "my first npm library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paigeshin/my-first-cool-npm-library.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "paige shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paigeshin/my-first-cool-npm-library/issues"
+  },
+  "homepage": "https://github.com/paigeshin/my-first-cool-npm-library#readme"
+}
